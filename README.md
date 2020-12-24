@@ -1,5 +1,6 @@
 # multi-roboot-demo-with-segmap
 An example about how to run multi-robot-slam test with segmap 
+
 1.download launch file from: https://github.com/gopi231091/SegMap-Multi-Robot-Demo 
 
 2.Split files through the tools provided on the site: https://github.com/ethz-asl/segmap/tree/master/tools 
